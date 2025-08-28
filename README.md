@@ -21,6 +21,9 @@ O usuário pode escolher uma categoria, responder perguntas, receber dicas e ver
 
 Telas do Quiz
 ![Quiz](./img/img.1.png)
+![Quiz](./img/img.2.png)
+![Quiz](./img/img.3.png)
+
 
 
 
