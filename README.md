@@ -20,7 +20,7 @@ O usuário pode escolher uma categoria, responder perguntas, receber dicas e ver
 ✅ Tela de **Game Over** com reinício  
 
 Telas do Quiz
-![Tela Inicial](img.1.png)
+![Quiz](./img/img.1.png)
 
 
 
