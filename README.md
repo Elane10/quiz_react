@@ -1,6 +1,6 @@
 🎯 Quiz App em React
 
-Um aplicativo de Quiz desenvolvido em **React.js**, com gerenciamento de estado global usando Context API e **useReducer.  
+Um aplicativo de Quiz desenvolvido em **React.js**, com gerenciamento de estado global usando Context API e useReducer.  
 O usuário pode escolher uma categoria, responder perguntas, receber dicas e verificar sua pontuação no final.
 
  🚀 Tecnologias utilizadas
