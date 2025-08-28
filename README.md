@@ -23,6 +23,8 @@ Telas do Quiz
 ![Quiz](./img/img.1.png)
 ![Quiz](./img/img.2.png)
 ![Quiz](./img/img.3.png)
+![Quiz](./img/img.4.png)
+
 
 
 
